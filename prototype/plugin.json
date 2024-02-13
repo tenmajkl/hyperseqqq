@@ -1,0 +1,23 @@
+{
+  "slug": "SeqPrototype",
+  "name": "SeqPrototype",
+  "version": "2.0.0",
+  "license": "gpl",
+  "brand": "hyper",
+  "author": "majkel",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "seq",
+      "name": "seq",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
